@@ -27,7 +27,7 @@
 
 ```bash 
 
-git clone https://github.com/jdegand/testing-router-outlet
+git clone https://github.com/jdegand/testing-router-outlet.git
 
 # cd into the directory
 npm install
